@@ -1,0 +1,21 @@
+Student_ID,Name,Department,Math,Science,English,Attendance,Total,Average,Grade,Result
+101,Aarav,Computer Science,85,90,78,92,253,84.33,A,Pass
+102,Diya,Computer Science,92,88,95,96,275,91.67,A+,Pass
+103,Kabir,Information Technology,67,72,70,80,209,69.67,C,Pass
+104,Ananya,Computer Science,45,55,60,68,160,53.33,D,Pass
+105,Ishaan,Information Technology,78,82,75,88,235,78.33,B,Pass
+106,Meera,Computer Science,96,94,91,98,281,93.67,A+,Pass
+107,Arjun,Information Technology,55,48,62,72,165,55.0,D,Pass
+108,Sara,Computer Science,88,91,84,94,263,87.67,A,Pass
+109,Rohan,Information Technology,35,42,50,60,127,42.33,D,Pass
+110,Kiara,Computer Science,73,79,81,85,233,77.67,B,Pass
+111,Aditya,Information Technology,81,76,80,90,237,79.0,B,Pass
+112,Ira,Computer Science,64,69,72,78,205,68.33,C,Pass
+113,Reyansh,Information Technology,90,85,88,93,263,87.67,A,Pass
+114,Myra,Computer Science,52,58,49,75,159,53.0,D,Pass
+115,Vihaan,Information Technology,87,89,83,91,259,86.33,A,Pass
+116,Anvi,Computer Science,39,33,45,55,117,39.0,F,Fail
+117,Dev,Information Technology,70,74,68,82,212,70.67,B,Pass
+118,Pari,Computer Science,94,97,93,99,284,94.67,A+,Pass
+119,Krish,Information Technology,61,65,57,77,183,61.0,C,Pass
+120,Tara,Computer Science,83,86,90,89,259,86.33,A,Pass
